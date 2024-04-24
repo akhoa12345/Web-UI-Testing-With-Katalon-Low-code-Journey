@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Exit fullscreenEnter fullscreen</name>
+   <tag></tag>
+   <elementGuidId>0d00862c-ee72-4daf-baba-44bcc4ed2ca2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[22]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e8181c9d-7355-4adb-9ce0-e0bdfa7d8ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>plyr__controls__item plyr__control</value>
+      <webElementGuid>3f3b8e6b-ee00-4c3e-8025-67f7f4637dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67e60b72-0a0a-4291-a36b-46a95cd1db68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-plyr</name>
+      <type>Main</type>
+      <value>fullscreen</value>
+      <webElementGuid>294e1915-2660-4b18-9a71-3dc38ef015c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Exit fullscreenEnter fullscreen</value>
+      <webElementGuid>533d74ef-37f9-4e41-a008-74a9db28a8ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tutorPlayer&quot;)/div[@class=&quot;plyr__controls plyr--no-transition&quot;]/button[@class=&quot;plyr__controls__item plyr__control&quot;]</value>
+      <webElementGuid>921d6c00-0c0d-4cf7-8a25-b82de3f120ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>908252bc-26e8-4820-aca9-c1c5b1ab9867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tutorPlayer']/div/button[4]</value>
+      <webElementGuid>4f485ad7-02c2-48fb-810f-3d167a035414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIP'])[1]/following::button[1]</value>
+      <webElementGuid>16294757-e7d4-453a-b765-e2414b3646d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal'])[2]/following::button[6]</value>
+      <webElementGuid>63dd88f6-31e7-465a-baa0-69e4241a0103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>b7399ecf-cc51-41d6-a8cd-66cc0d071d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Exit fullscreenEnter fullscreen' or . = 'Exit fullscreenEnter fullscreen')]</value>
+      <webElementGuid>028d4179-c180-4ea9-896c-6d08cfbf58d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
