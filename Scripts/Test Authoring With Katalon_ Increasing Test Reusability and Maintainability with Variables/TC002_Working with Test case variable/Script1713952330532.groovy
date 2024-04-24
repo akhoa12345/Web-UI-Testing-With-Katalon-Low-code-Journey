@@ -22,15 +22,15 @@ WebUI.openBrowser('')
 // define variable without data type
 def expectedTitle
 
-WebUI.navigateToUrl(GlobalVariable.URL)
+WebUI.navigateToUrl(url)
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Make Appointment'))
 
 WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/input_Username_username'), 
-    'John Doe')
+    username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/input_Password_password'), 
-    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/input_Password_password'), 
+    password)
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/button_Login'))
 
