@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Make Appointment</name>
+   <name>nav_HomeMy account</name>
    <tag></tag>
-   <elementGuidId>d42c4f83-db12-42dc-93a9-6ab3995d28a8</elementGuidId>
+   <elementGuidId>985df55b-913d-43aa-bda4-95a2ee5cb2bd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::h2[1]</value>
+         <value>//div[@id='page']/header/nav</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>h2</value>
+         <value>nav.woocommerce-breadcrumb</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=heading[name=&quot;Make Appointment&quot;i]</value>
+         <value>internal:text=&quot;Home / My account&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,71 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
-      <webElementGuid>7351ded9-aaae-4a13-bf43-29fff1ef7ef9</webElementGuid>
+      <value>nav</value>
+      <webElementGuid>9727b668-4e4f-46c5-ae46-880c181b0114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-breadcrumb</value>
+      <webElementGuid>034cff77-73cf-4252-ad81-dc5d7bf55c53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Make Appointment</value>
-      <webElementGuid>5e348d51-dba2-486b-8d05-3959850bfb5a</webElementGuid>
+      <value>Home  /  My account</value>
+      <webElementGuid>1335cd6e-bb44-4d2d-86cd-a05da46142dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;appointment&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 text-center&quot;]/h2[1]</value>
-      <webElementGuid>9d69f724-06e7-4c3e-8fcd-18bb6af9e20a</webElementGuid>
+      <value>id(&quot;page&quot;)/header[@class=&quot;page-header-block&quot;]/nav[@class=&quot;woocommerce-breadcrumb&quot;]</value>
+      <webElementGuid>a11d6670-a449-4390-baba-1d0252bcd9e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='appointment']/div/div/div/h2</value>
-      <webElementGuid>05e1ca23-ac7f-498f-a6cb-641a1666a4a9</webElementGuid>
+      <value>//div[@id='page']/header/nav</value>
+      <webElementGuid>d92fc305-f43a-4977-8767-4edd40b1caa0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::h2[1]</value>
-      <webElementGuid>7b3d3196-1f92-46f7-abe9-7e70ceaff74e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[1]/following::nav[1]</value>
+      <webElementGuid>245f566a-b738-4964-9ecf-3730ccf67f05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::h2[1]</value>
-      <webElementGuid>897b966a-8a39-4e4e-b616-1221c3a1fdd7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sample Page'])[1]/following::nav[1]</value>
+      <webElementGuid>7530a112-6d78-4185-8403-3acc1ece51bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/preceding::h2[1]</value>
-      <webElementGuid>ef350e47-59ed-47c3-9a75-b42eea669cf7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My account'])[2]/preceding::nav[1]</value>
+      <webElementGuid>16bd903d-c9af-45d0-b0b3-adf81035878d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h2</value>
-      <webElementGuid>db6597d5-eb8b-4567-a32d-de17536ea0e7</webElementGuid>
+      <value>//div/header/nav</value>
+      <webElementGuid>fb091d4b-8ea1-4439-845e-98f260d2948f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h2[(text() = 'Make Appointment' or . = 'Make Appointment')]</value>
-      <webElementGuid>41895908-494a-4156-a0da-3c0c8902c5b5</webElementGuid>
+      <value>//nav[(text() = 'Home  /  My account' or . = 'Home  /  My account')]</value>
+      <webElementGuid>9aa7829c-0283-40c3-b34f-92c0b59666c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

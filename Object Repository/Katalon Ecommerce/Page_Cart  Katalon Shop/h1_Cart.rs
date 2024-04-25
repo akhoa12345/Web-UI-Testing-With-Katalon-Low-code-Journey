@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Make Appointment</name>
+   <name>h1_Cart</name>
    <tag></tag>
-   <elementGuidId>d42c4f83-db12-42dc-93a9-6ab3995d28a8</elementGuidId>
+   <elementGuidId>169e0fe9-680e-4c21-985c-db7829eab5b5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::h2[1]</value>
+         <value>//div[@id='page']/header/h1</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>h2</value>
+         <value>h1.page-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=heading[name=&quot;Make Appointment&quot;i]</value>
+         <value>internal:role=heading[name=&quot;Cart&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,71 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
-      <webElementGuid>7351ded9-aaae-4a13-bf43-29fff1ef7ef9</webElementGuid>
+      <value>h1</value>
+      <webElementGuid>3acd8720-22fc-4c60-9742-af6217032fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-title</value>
+      <webElementGuid>0383702a-ee22-4857-bbe8-32155a60a4bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Make Appointment</value>
-      <webElementGuid>5e348d51-dba2-486b-8d05-3959850bfb5a</webElementGuid>
+      <value>Cart</value>
+      <webElementGuid>8df3656d-caf1-425b-986b-fd1002e555c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;appointment&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 text-center&quot;]/h2[1]</value>
-      <webElementGuid>9d69f724-06e7-4c3e-8fcd-18bb6af9e20a</webElementGuid>
+      <value>id(&quot;page&quot;)/header[@class=&quot;page-header-block&quot;]/h1[@class=&quot;page-title&quot;]</value>
+      <webElementGuid>a257a567-0ff4-43c3-998b-034a54dcc0de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='appointment']/div/div/div/h2</value>
-      <webElementGuid>05e1ca23-ac7f-498f-a6cb-641a1666a4a9</webElementGuid>
+      <value>//div[@id='page']/header/h1</value>
+      <webElementGuid>5ea6eb17-ae25-489b-aeae-736b670fee33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::h2[1]</value>
-      <webElementGuid>7b3d3196-1f92-46f7-abe9-7e70ceaff74e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::h1[1]</value>
+      <webElementGuid>094644d3-3d5b-4232-91a6-5fb561d6d6fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::h2[1]</value>
-      <webElementGuid>897b966a-8a39-4e4e-b616-1221c3a1fdd7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[1]/following::h1[1]</value>
+      <webElementGuid>dacff45d-488b-4dc2-b2e9-0102505c4ccc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/preceding::h2[1]</value>
-      <webElementGuid>ef350e47-59ed-47c3-9a75-b42eea669cf7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/preceding::h1[1]</value>
+      <webElementGuid>9556fd94-aa74-4f43-9231-1dfc1a0a8c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/preceding::h1[1]</value>
+      <webElementGuid>fdce1c75-5f08-4953-953c-69f49f37fac9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h2</value>
-      <webElementGuid>db6597d5-eb8b-4567-a32d-de17536ea0e7</webElementGuid>
+      <value>//h1</value>
+      <webElementGuid>cb4520b9-170b-49ed-9919-21fa366f8cdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h2[(text() = 'Make Appointment' or . = 'Make Appointment')]</value>
-      <webElementGuid>41895908-494a-4156-a0da-3c0c8902c5b5</webElementGuid>
+      <value>//h1[(text() = 'Cart' or . = 'Cart')]</value>
+      <webElementGuid>d7d41899-7a68-4336-979f-d1cdecb1987b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
