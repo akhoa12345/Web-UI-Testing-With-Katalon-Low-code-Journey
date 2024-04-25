@@ -15,21 +15,21 @@
       <guid>2bf62dab-5bfc-4f43-b13f-c6b88e84114f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Record and Playback/Login</testCaseId>
+      <testCaseId>Test Cases/1. Record and Playback/Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>2a370e09-11cf-4bae-a076-ce4bdcc6f54a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Record and Playback/Booking an appointment</testCaseId>
+      <testCaseId>Test Cases/1. Record and Playback/Booking an appointment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>b2bdf1de-79ba-47b9-bdd8-ab2f74a31c66</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Record and Playback/Active Browser</testCaseId>
+      <testCaseId>Test Cases/1. Record and Playback/Active Browser</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

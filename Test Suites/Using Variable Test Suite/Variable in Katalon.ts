@@ -15,7 +15,7 @@
       <guid>ebd76eb3-cd45-4468-bbfb-0969a6af3832</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test Authoring With Katalon_ Increasing Test Reusability and Maintainability with Variables/TC002_Working with Test case variable</testCaseId>
+      <testCaseId>Test Cases/4. Test Authoring With Katalon_ Increasing Test Reusability and Maintainability with Variables/TC002_Working with Test case variable</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>dbf66617-d815-4683-9541-be00f6b86d93</id>

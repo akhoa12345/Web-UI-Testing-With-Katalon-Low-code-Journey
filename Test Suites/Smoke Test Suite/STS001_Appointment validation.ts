@@ -15,7 +15,7 @@
       <guid>c03778e2-bff7-4710-842a-dd0c50b14c41</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Organizing and Managing Katalon Tests for Better Efficiency/Main Test Case/MTC001_make an appointment with doctor</testCaseId>
+      <testCaseId>Test Cases/3. Organizing and Managing Katalon Tests for Better Efficiency/Main Test Case/MTC001_make an appointment with doctor</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
