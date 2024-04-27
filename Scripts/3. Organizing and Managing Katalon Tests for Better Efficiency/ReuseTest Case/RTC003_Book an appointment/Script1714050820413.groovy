@@ -40,3 +40,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/OR Health Care Service
 
 WebUI.verifyElementText(findTestObject('Object Repository/OR Health Care Service/p_Test Katalon'), 'Test comment')
 
+WebUI.takeScreenshotAsCheckpoint('appointment_web')
+
