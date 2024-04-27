@@ -22,16 +22,6 @@
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
             <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Safari</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Smoke Test Suite/STS001_Appointment validation</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Edge Chromium</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
